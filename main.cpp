@@ -36,6 +36,6 @@ int main()
     bool d = 1;
 
     EloRating(Ra,Rb,K,d);
-    cout << "Is this gonna show up on github?";
+    cout << "Test from notion?";
     return 0;
 }
