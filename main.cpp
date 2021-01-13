@@ -28,7 +28,7 @@ void EloRating(float Ra, float Rb, int K, bool d)
 
 int main()
 {
-    float Ra = 1000;
+    float Ra = 1010;
     float Rb = 1000;
 
     int K = 30;
@@ -36,6 +36,6 @@ int main()
     bool d = 1;
 
     EloRating(Ra,Rb,K,d);
-
+    cout << "Is this gonna show up on github?";
     return 0;
 }
